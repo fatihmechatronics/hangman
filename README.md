@@ -1,4 +1,4 @@
-# hangman
+# Hangman
 Hangman Game Universally Known
 
 Setup
