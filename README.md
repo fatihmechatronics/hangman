@@ -7,4 +7,4 @@ Setup on Windows Command Processor
 2) npm install
 3) npm run build
 4) npm run dev-server
-5) open http://localhost:8080/ in your browser
+5) open http://localhost:8080/ on your browser
