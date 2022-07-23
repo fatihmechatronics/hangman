@@ -1,9 +1,8 @@
 # Hangman
 Hangman Game Universally Known
-
-Setup
+Setup on Windows Command Processor
 1) cd hangman-main
 2) npm install
 3) npm run build
 4) npm run dev-server
-5) open localhost:1800 in your browser
+5) open http://localhost:8080/) in your browser
