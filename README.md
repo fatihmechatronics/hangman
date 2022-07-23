@@ -1,5 +1,5 @@
 # Hangman
-Hangman Game Universally Known
+Hangman Game Universally Known on the website on any browsers
 
 Extract hangman-main.zip field here and copy this file into your C:\Users\something(your username is written)
 
