@@ -2,8 +2,8 @@
 Hangman Game Universally Known
 
 Setup
-cd GitHubHangman
-npm install
-npm run build
-npm run dev-server
-open localhost:1800 in your browser
+1) cd GitHubHangman
+2) npm install
+3) npm run build
+4) npm run dev-server
+5) open localhost:1800 in your browser
