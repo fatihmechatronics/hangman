@@ -1,6 +1,7 @@
 # Hangman
 Hangman Game Universally Known
-Extract hangnman-main.zip field here and copy this file into your C:\Users\something(whatever your username is written)
+
+Extract hangman-main.zip field here and copy this file into your C:\Users\something(whatever your username is written)
 
 Setup on Windows Command Processor
 1) cd hangman-main
